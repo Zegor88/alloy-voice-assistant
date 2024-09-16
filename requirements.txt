@@ -8,3 +8,5 @@ pyaudio
 soundfile
 SpeechRecognition
 git+https://github.com/openai/whisper.git
+numpy
+mss
